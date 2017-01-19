@@ -1,0 +1,160 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2017-01-19T02:44:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/3404901184",
+      "properties": {
+        "@id": "node/3404901184",
+        "name": "을지로입구역 1번 출구",
+        "name:en": "Euljiro 1(il)ga Station gate 1",
+        "name:ja": "乙支路入口駅 1番 出口",
+        "name:ko": "을지로입구역 1번 출구",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9820022,
+          37.5661001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3404901185",
+      "properties": {
+        "@id": "node/3404901185",
+        "name": "을지로입구역 2번 출구",
+        "name:en": "Euljiro 1(il)ga Station gate 2",
+        "name:ja": "乙支路入口駅 2番 出口",
+        "name:ko": "을지로입구역 2번 출구",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9822502,
+          37.5663224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3404901186",
+      "properties": {
+        "@id": "node/3404901186",
+        "name": "을지로입구역 3번 출구",
+        "name:en": "Euljiro 1(il)ga Station gate 3",
+        "name:ja": "乙支路入口駅 3番 出口",
+        "name:ko": "을지로입구역 3번 출구",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9829323,
+          37.5664045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3404901187",
+      "properties": {
+        "@id": "node/3404901187",
+        "name": "을지로입구역 4번 출구",
+        "name:en": "Euljiro 1(il)ga Station gate 4",
+        "name:ja": "乙支路入口駅 4番 出口",
+        "name:ko": "을지로입구역 4번 출구",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9833213,
+          37.5661834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3404901188",
+      "properties": {
+        "@id": "node/3404901188",
+        "name": "을지로입구역 5번 출구",
+        "name:en": "Euljiro 1(il)ga Station gate 5",
+        "name:ja": "乙支路入口駅 5番 出口",
+        "name:ko": "을지로입구역 5번 출구",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9832869,
+          37.5657263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3404901189",
+      "properties": {
+        "@id": "node/3404901189",
+        "name": "을지로입구역 6번 출구",
+        "name:en": "Euljiro 1(il)ga Station gate 6",
+        "name:ja": "乙支路入口駅 6番 出口",
+        "name:ko": "을지로입구역 6번 출구",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9829291,
+          37.5655555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3404901190",
+      "properties": {
+        "@id": "node/3404901190",
+        "name": "을지로입구역 8번 출구",
+        "name:en": "Euljiro 1(il)ga Station gate 8",
+        "name:ja": "乙支路入口駅 8番 出口",
+        "name:ko": "을지로입구역 8번 출구",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9821526,
+          37.5657069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3404901191",
+      "properties": {
+        "@id": "node/3404901191",
+        "name": "을지로입구역 7번 출구",
+        "name:en": "Euljiro 1(il)ga Station gate 7",
+        "name:ja": "乙支路入口駅 7番 出口",
+        "name:ko": "을지로입구역 7번 출구",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9823518,
+          37.5654717
+        ]
+      }
+    }
+  ]
+}
