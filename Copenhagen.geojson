@@ -1,0 +1,5438 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2017-03-13T08:30:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/4054540",
+      "properties": {
+        "@id": "way/4054540",
+        "electrified": "rail",
+        "gauge": "1435",
+        "name": "Metro M1",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "ref": "M1",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5756,
+            55.6191505
+          ],
+          [
+            12.5756773,
+            55.6193604
+          ],
+          [
+            12.5757737,
+            55.6196005
+          ],
+          [
+            12.576514,
+            55.621396
+          ],
+          [
+            12.5766896,
+            55.6218888
+          ],
+          [
+            12.5774556,
+            55.6238164
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/4245710",
+      "properties": {
+        "@id": "way/4245710",
+        "electrified": "rail",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Metro M1+M2",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "tunnel": "yes",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5230103,
+            55.6816922
+          ],
+          [
+            12.5242125,
+            55.6814577
+          ],
+          [
+            12.5251131,
+            55.68131
+          ],
+          [
+            12.5257569,
+            55.6812563
+          ],
+          [
+            12.5264054,
+            55.6812307
+          ],
+          [
+            12.5289777,
+            55.6811925
+          ],
+          [
+            12.5311209,
+            55.6811823
+          ],
+          [
+            12.5328129,
+            55.6811887
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/4317977",
+      "properties": {
+        "@id": "way/4317977",
+        "electrified": "rail",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Metro M1",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "ref": "M1",
+        "tunnel": "yes",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5850205,
+            55.662693
+          ],
+          [
+            12.5852827,
+            55.6634044
+          ],
+          [
+            12.5854629,
+            55.6639058
+          ],
+          [
+            12.5860297,
+            55.6645529
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/10075451",
+      "properties": {
+        "@id": "way/10075451",
+        "electrified": "rail",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Metro M1+M2",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "tunnel": "yes",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5328129,
+            55.6811887
+          ],
+          [
+            12.5355229,
+            55.6812235
+          ],
+          [
+            12.537756,
+            55.6814697
+          ],
+          [
+            12.540906,
+            55.6821278
+          ],
+          [
+            12.5432406,
+            55.6828246
+          ],
+          [
+            12.5457039,
+            55.6829988
+          ],
+          [
+            12.5458106,
+            55.6830022
+          ],
+          [
+            12.5472572,
+            55.6828209
+          ],
+          [
+            12.5473433,
+            55.6828101
+          ],
+          [
+            12.5487509,
+            55.6826214
+          ],
+          [
+            12.5505726,
+            55.6822467
+          ],
+          [
+            12.5524491,
+            55.6818478
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/10075453",
+      "properties": {
+        "@id": "way/10075453",
+        "electrified": "rail",
+        "gauge": "1435",
+        "layer": "-2",
+        "name": "Metro M1+M2",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "tunnel": "yes",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5524491,
+            55.6818478
+          ],
+          [
+            12.5532429,
+            55.6816713
+          ],
+          [
+            12.5535795,
+            55.6815965
+          ],
+          [
+            12.5536828,
+            55.6815735
+          ],
+          [
+            12.5545257,
+            55.6813861
+          ],
+          [
+            12.5554698,
+            55.681357
+          ],
+          [
+            12.5564842,
+            55.6814117
+          ],
+          [
+            12.5578661,
+            55.681731
+          ],
+          [
+            12.5589717,
+            55.6822232
+          ],
+          [
+            12.5597,
+            55.6826748
+          ],
+          [
+            12.5608874,
+            55.6837247
+          ],
+          [
+            12.5624736,
+            55.6850781
+          ],
+          [
+            12.5627881,
+            55.6852732
+          ],
+          [
+            12.5635348,
+            55.6855151
+          ],
+          [
+            12.5642558,
+            55.6856506
+          ],
+          [
+            12.5654746,
+            55.6856119
+          ],
+          [
+            12.5666638,
+            55.6853989
+          ],
+          [
+            12.5704676,
+            55.684067
+          ],
+          [
+            12.570609,
+            55.6840361
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/10075454",
+      "properties": {
+        "@id": "way/10075454",
+        "electrified": "rail",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Metro M1+M2",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "tunnel": "yes",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5851098,
+            55.6795124
+          ],
+          [
+            12.5853381,
+            55.6789351
+          ],
+          [
+            12.5854776,
+            55.6785822
+          ],
+          [
+            12.5861387,
+            55.6772401
+          ],
+          [
+            12.5862739,
+            55.6771054
+          ],
+          [
+            12.5875721,
+            55.6758124
+          ],
+          [
+            12.5891943,
+            55.6743798
+          ],
+          [
+            12.5911935,
+            55.6722645
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/10075455",
+      "properties": {
+        "@id": "way/10075455",
+        "electrified": "rail",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Metro M1+M2",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "tunnel": "yes",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5911935,
+            55.6722645
+          ],
+          [
+            12.5920782,
+            55.6713402
+          ],
+          [
+            12.5927134,
+            55.6699462
+          ],
+          [
+            12.5930395,
+            55.6684262
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/13254835",
+      "properties": {
+        "@id": "way/13254835",
+        "electrified": "rail",
+        "gauge": "1435",
+        "name": "Metro M2",
+        "railway": "subway",
+        "ref": "M2",
+        "tunnel": "no",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6482999,
+            55.6336541
+          ],
+          [
+            12.64857,
+            55.6332107
+          ],
+          [
+            12.6487664,
+            55.6326005
+          ],
+          [
+            12.6489559,
+            55.6317726
+          ],
+          [
+            12.6489967,
+            55.6315723
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/13254836",
+      "properties": {
+        "@id": "way/13254836",
+        "electrified": "rail",
+        "gauge": "1435",
+        "name": "Metro M1+M2",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "tunnel": "no",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5215104,
+            55.682
+          ],
+          [
+            12.5160871,
+            55.682954
+          ],
+          [
+            12.5136494,
+            55.6834059
+          ],
+          [
+            12.5132083,
+            55.6834849
+          ],
+          [
+            12.5127673,
+            55.683564
+          ],
+          [
+            12.5125329,
+            55.6836079
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/13254837",
+      "properties": {
+        "@id": "way/13254837",
+        "bridge": "yes",
+        "electrified": "rail",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Metro M1+M2",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "tunnel": "no",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5125329,
+            55.6836079
+          ],
+          [
+            12.5120727,
+            55.6836898
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/13254838",
+      "properties": {
+        "@id": "way/13254838",
+        "electrified": "rail",
+        "gauge": "1435",
+        "name": "Metro M1+M2",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "tunnel": "no",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5120727,
+            55.6836898
+          ],
+          [
+            12.5102276,
+            55.6839889
+          ],
+          [
+            12.508941,
+            55.6842307
+          ],
+          [
+            12.5083244,
+            55.6843464
+          ],
+          [
+            12.5076651,
+            55.684478
+          ],
+          [
+            12.5063177,
+            55.6847658
+          ],
+          [
+            12.5049908,
+            55.6850601
+          ],
+          [
+            12.5044003,
+            55.6851757
+          ],
+          [
+            12.5038851,
+            55.68527
+          ],
+          [
+            12.503424,
+            55.6853403
+          ],
+          [
+            12.5014077,
+            55.6856265
+          ],
+          [
+            12.5007765,
+            55.6857204
+          ],
+          [
+            12.500493,
+            55.6857628
+          ],
+          [
+            12.5000319,
+            55.6858452
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/13254843",
+      "properties": {
+        "@id": "way/13254843",
+        "electrified": "rail",
+        "gauge": "1435",
+        "name": "Metro M1+M2",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "tunnel": "no",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4978744,
+            55.6862218
+          ],
+          [
+            12.4971771,
+            55.6863562
+          ],
+          [
+            12.4964472,
+            55.6865072
+          ],
+          [
+            12.4956303,
+            55.6866532
+          ],
+          [
+            12.4942068,
+            55.6869039
+          ],
+          [
+            12.4939204,
+            55.6869544
+          ],
+          [
+            12.4935563,
+            55.6870147
+          ],
+          [
+            12.4935004,
+            55.687024
+          ],
+          [
+            12.4928985,
+            55.6871284
+          ],
+          [
+            12.492658,
+            55.6871719
+          ],
+          [
+            12.4923902,
+            55.6872169
+          ],
+          [
+            12.4919037,
+            55.6873083
+          ],
+          [
+            12.4908603,
+            55.6875245
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/13254844",
+      "properties": {
+        "@id": "way/13254844",
+        "bridge": "yes",
+        "electrified": "rail",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Metro M1+M2",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5000319,
+            55.6858452
+          ],
+          [
+            12.499521,
+            55.6859247
+          ],
+          [
+            12.4978744,
+            55.6862218
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/13254845",
+      "properties": {
+        "@id": "way/13254845",
+        "electrified": "rail",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Metro M2",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "ref": "M2",
+        "tunnel": "yes",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6449861,
+            55.6390959
+          ],
+          [
+            12.6450792,
+            55.6389418
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/13254846",
+      "properties": {
+        "@id": "way/13254846",
+        "electrified": "rail",
+        "gauge": "1435",
+        "name": "Metro M2",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "ref": "M2",
+        "tunnel": "no",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6380506,
+            55.6455902
+          ],
+          [
+            12.6382463,
+            55.6451749
+          ],
+          [
+            12.638452,
+            55.6448469
+          ],
+          [
+            12.6387127,
+            55.6444113
+          ],
+          [
+            12.6391805,
+            55.6437824
+          ],
+          [
+            12.6395956,
+            55.6432034
+          ],
+          [
+            12.6400499,
+            55.6426852
+          ],
+          [
+            12.6407364,
+            55.6420704
+          ],
+          [
+            12.642469,
+            55.6410372
+          ],
+          [
+            12.6432761,
+            55.6405627
+          ],
+          [
+            12.6436737,
+            55.6403308
+          ],
+          [
+            12.6440772,
+            55.6400637
+          ],
+          [
+            12.6444596,
+            55.6397501
+          ],
+          [
+            12.6446507,
+            55.6395645
+          ],
+          [
+            12.6447963,
+            55.6393837
+          ],
+          [
+            12.6448997,
+            55.6392421
+          ],
+          [
+            12.6449861,
+            55.6390959
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/13254848",
+      "properties": {
+        "@id": "way/13254848",
+        "electrified": "rail",
+        "gauge": "1435",
+        "name": "Metro M2",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "ref": "M2",
+        "tunnel": "no",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6450792,
+            55.6389418
+          ],
+          [
+            12.6456504,
+            55.6377859
+          ],
+          [
+            12.6459632,
+            55.6372574
+          ],
+          [
+            12.6464405,
+            55.6363986
+          ],
+          [
+            12.6469579,
+            55.6355766
+          ],
+          [
+            12.6472568,
+            55.6351261
+          ],
+          [
+            12.6476943,
+            55.6344621
+          ],
+          [
+            12.648207,
+            55.6337776
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/13254849",
+      "properties": {
+        "@id": "way/13254849",
+        "electrified": "rail",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Metro M2",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "ref": "M2",
+        "tunnel": "no",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6315094,
+            55.6566183
+          ],
+          [
+            12.6316469,
+            55.6563844
+          ],
+          [
+            12.6317921,
+            55.6561241
+          ],
+          [
+            12.6324101,
+            55.6551315
+          ],
+          [
+            12.6328178,
+            55.6544278
+          ],
+          [
+            12.633955,
+            55.6525552
+          ],
+          [
+            12.6348595,
+            55.6510153
+          ],
+          [
+            12.6360557,
+            55.6490635
+          ],
+          [
+            12.6367033,
+            55.6479572
+          ],
+          [
+            12.63699,
+            55.6474809
+          ],
+          [
+            12.6373143,
+            55.6469423
+          ],
+          [
+            12.6379659,
+            55.6457702
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/13254850",
+      "properties": {
+        "@id": "way/13254850",
+        "bridge": "yes",
+        "electrified": "rail",
+        "gauge": "1435",
+        "layer": "2",
+        "name": "Metro M2",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "ref": "M2",
+        "tunnel": "no",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6379659,
+            55.6457702
+          ],
+          [
+            12.6380506,
+            55.6455902
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/13254851",
+      "properties": {
+        "@id": "way/13254851",
+        "electrified": "rail",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Metro M2",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "ref": "M2",
+        "tunnel": "yes",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6285934,
+            55.6616756
+          ],
+          [
+            12.6283769,
+            55.6618979
+          ],
+          [
+            12.6282473,
+            55.6619913
+          ],
+          [
+            12.6281166,
+            55.6620739
+          ],
+          [
+            12.6279828,
+            55.6621428
+          ],
+          [
+            12.6278416,
+            55.6622011
+          ],
+          [
+            12.6276161,
+            55.6622789
+          ],
+          [
+            12.6273716,
+            55.6623396
+          ],
+          [
+            12.6270945,
+            55.6623931
+          ],
+          [
+            12.6267541,
+            55.6624472
+          ],
+          [
+            12.6262931,
+            55.6625027
+          ],
+          [
+            12.6244177,
+            55.6627669
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24520193",
+      "properties": {
+        "@id": "way/24520193",
+        "electrified": "rail",
+        "gauge": "1435",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "service": "siding",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5780556,
+            55.6198134
+          ],
+          [
+            12.5791321,
+            55.6234095
+          ],
+          [
+            12.5791245,
+            55.6235301
+          ],
+          [
+            12.5790376,
+            55.6237093
+          ],
+          [
+            12.5785106,
+            55.6246418
+          ],
+          [
+            12.5785131,
+            55.6251406
+          ],
+          [
+            12.5785358,
+            55.6252222
+          ],
+          [
+            12.5786085,
+            55.6253177
+          ],
+          [
+            12.5787602,
+            55.6254329
+          ],
+          [
+            12.5789476,
+            55.6255131
+          ],
+          [
+            12.5793231,
+            55.6255817
+          ],
+          [
+            12.5796906,
+            55.62556
+          ],
+          [
+            12.5800362,
+            55.6254325
+          ],
+          [
+            12.5802057,
+            55.6252359
+          ],
+          [
+            12.5802374,
+            55.6250453
+          ],
+          [
+            12.5801781,
+            55.6248492
+          ],
+          [
+            12.580004,
+            55.6245775
+          ],
+          [
+            12.5798409,
+            55.6243497
+          ],
+          [
+            12.5796006,
+            55.6235113
+          ],
+          [
+            12.5791199,
+            55.6218781
+          ],
+          [
+            12.5785156,
+            55.6198715
+          ],
+          [
+            12.5782048,
+            55.6195702
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24520302",
+      "properties": {
+        "@id": "way/24520302",
+        "electrified": "rail",
+        "gauge": "1435",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "service": "siding",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5778661,
+            55.6187853
+          ],
+          [
+            12.5778019,
+            55.618578
+          ],
+          [
+            12.5777437,
+            55.6184964
+          ],
+          [
+            12.5776544,
+            55.6184254
+          ],
+          [
+            12.5775763,
+            55.6183752
+          ],
+          [
+            12.5774308,
+            55.6183131
+          ],
+          [
+            12.5771096,
+            55.6182457
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24520346",
+      "properties": {
+        "@id": "way/24520346",
+        "electrified": "rail",
+        "gauge": "1435",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "service": "siding",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5783307,
+            55.6184464
+          ],
+          [
+            12.5784562,
+            55.6188264
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24520365",
+      "properties": {
+        "@id": "way/24520365",
+        "electrified": "rail",
+        "gauge": "1435",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "service": "siding",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5789654,
+            55.622038
+          ],
+          [
+            12.5790427,
+            55.6218781
+          ],
+          [
+            12.5784295,
+            55.6198991
+          ],
+          [
+            12.5782903,
+            55.6197298
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24520369",
+      "properties": {
+        "@id": "way/24520369",
+        "electrified": "rail",
+        "gauge": "1435",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "service": "siding",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5788539,
+            55.6221059
+          ],
+          [
+            12.5780647,
+            55.619637
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24520480",
+      "properties": {
+        "@id": "way/24520480",
+        "electrified": "rail",
+        "gauge": "1435",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "service": "siding",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5784427,
+            55.6218699
+          ],
+          [
+            12.5780942,
+            55.6208023
+          ],
+          [
+            12.5779831,
+            55.6204253
+          ],
+          [
+            12.5780238,
+            55.620081
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24520509",
+      "properties": {
+        "@id": "way/24520509",
+        "gauge": "1435",
+        "railway": "subway",
+        "service": "siding"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5783451,
+            55.6218753
+          ],
+          [
+            12.57809,
+            55.6210251
+          ],
+          [
+            12.5780942,
+            55.6208023
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24520650",
+      "properties": {
+        "@id": "way/24520650",
+        "electrified": "rail",
+        "gauge": "1435",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "service": "siding",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5789493,
+            55.6223975
+          ],
+          [
+            12.5789654,
+            55.622038
+          ],
+          [
+            12.5782903,
+            55.6197298
+          ],
+          [
+            12.5782048,
+            55.6195702
+          ],
+          [
+            12.578054,
+            55.6193763
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24520787",
+      "properties": {
+        "@id": "way/24520787",
+        "electrified": "rail",
+        "gauge": "1435",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "service": "siding",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5796006,
+            55.6235113
+          ],
+          [
+            12.5795579,
+            55.6225292
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24520866",
+      "properties": {
+        "@id": "way/24520866",
+        "electrified": "rail",
+        "gauge": "1435",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "service": "siding",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5786444,
+            55.6227325
+          ],
+          [
+            12.5789122,
+            55.6236203
+          ],
+          [
+            12.5789314,
+            55.6237729
+          ],
+          [
+            12.5788099,
+            55.623979
+          ],
+          [
+            12.5786521,
+            55.6242786
+          ],
+          [
+            12.5785171,
+            55.6244666
+          ],
+          [
+            12.5784546,
+            55.624569
+          ],
+          [
+            12.5783869,
+            55.624695
+          ],
+          [
+            12.5783784,
+            55.6247898
+          ],
+          [
+            12.5784378,
+            55.6249675
+          ],
+          [
+            12.5785131,
+            55.6251406
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24520888",
+      "properties": {
+        "@id": "way/24520888",
+        "electrified": "rail",
+        "gauge": "1435",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "service": "siding",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5791199,
+            55.6218781
+          ],
+          [
+            12.5789493,
+            55.6223975
+          ],
+          [
+            12.5793774,
+            55.6237633
+          ],
+          [
+            12.5798409,
+            55.6243497
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24520904",
+      "properties": {
+        "@id": "way/24520904",
+        "electrified": "rail",
+        "gauge": "1435",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "service": "siding",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5756,
+            55.6191505
+          ],
+          [
+            12.5755089,
+            55.6189037
+          ],
+          [
+            12.5754706,
+            55.618745
+          ],
+          [
+            12.5755008,
+            55.6186023
+          ],
+          [
+            12.5755597,
+            55.6185015
+          ],
+          [
+            12.5756576,
+            55.6184118
+          ],
+          [
+            12.5758264,
+            55.6183279
+          ],
+          [
+            12.5760133,
+            55.6182798
+          ],
+          [
+            12.576231,
+            55.6182544
+          ],
+          [
+            12.5764659,
+            55.6182536
+          ],
+          [
+            12.5768382,
+            55.6182824
+          ],
+          [
+            12.577221,
+            55.6183208
+          ],
+          [
+            12.577448,
+            55.6183759
+          ],
+          [
+            12.5776613,
+            55.6184802
+          ],
+          [
+            12.5777704,
+            55.6185946
+          ],
+          [
+            12.5778661,
+            55.6187853
+          ],
+          [
+            12.578054,
+            55.6193763
+          ],
+          [
+            12.5780647,
+            55.619637
+          ],
+          [
+            12.5780556,
+            55.6198134
+          ],
+          [
+            12.5780238,
+            55.620081
+          ],
+          [
+            12.5790735,
+            55.623524
+          ],
+          [
+            12.5790376,
+            55.6237093
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24520933",
+      "properties": {
+        "@id": "way/24520933",
+        "electrified": "rail",
+        "gauge": "1435",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "service": "siding",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5785336,
+            55.6227519
+          ],
+          [
+            12.5788297,
+            55.6238048
+          ],
+          [
+            12.5788099,
+            55.623979
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24520938",
+      "properties": {
+        "@id": "way/24520938",
+        "electrified": "rail",
+        "gauge": "1435",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "service": "siding",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.578403,
+            55.6227582
+          ],
+          [
+            12.578736,
+            55.6239726
+          ],
+          [
+            12.5786872,
+            55.6241574
+          ],
+          [
+            12.5786521,
+            55.6242786
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24520952",
+      "properties": {
+        "@id": "way/24520952",
+        "electrified": "rail",
+        "gauge": "1435",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "service": "siding",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5783279,
+            55.6227477
+          ],
+          [
+            12.578661,
+            55.6239619
+          ],
+          [
+            12.5786872,
+            55.6241574
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26170044",
+      "properties": {
+        "@id": "way/26170044",
+        "electrified": "rail",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Metro M2",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "ref": "M2",
+        "tunnel": "yes",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5930395,
+            55.6684262
+          ],
+          [
+            12.5935116,
+            55.6676711
+          ],
+          [
+            12.5944987,
+            55.667095
+          ],
+          [
+            12.5961037,
+            55.6663883
+          ],
+          [
+            12.5986014,
+            55.6655508
+          ],
+          [
+            12.6008587,
+            55.6646697
+          ],
+          [
+            12.6017106,
+            55.6641176
+          ],
+          [
+            12.6027246,
+            55.6635061
+          ],
+          [
+            12.6038885,
+            55.6625734
+          ],
+          [
+            12.6047898,
+            55.6618956
+          ],
+          [
+            12.606369,
+            55.6614163
+          ],
+          [
+            12.6079655,
+            55.6612178
+          ],
+          [
+            12.610343,
+            55.6611839
+          ],
+          [
+            12.6143356,
+            55.6617865
+          ],
+          [
+            12.6168318,
+            55.6621716
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/59576201",
+      "properties": {
+        "@id": "way/59576201",
+        "electrified": "rail",
+        "gauge": "1435",
+        "name": "Metro M2",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "ref": "M2",
+        "tunnel": "no",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6381087,
+            55.6457938
+          ],
+          [
+            12.6377424,
+            55.6464374
+          ],
+          [
+            12.6373961,
+            55.6469889
+          ],
+          [
+            12.6370895,
+            55.6475236
+          ],
+          [
+            12.636794,
+            55.6479754
+          ],
+          [
+            12.6361213,
+            55.6490732
+          ],
+          [
+            12.6349331,
+            55.6510341
+          ],
+          [
+            12.6340141,
+            55.6525626
+          ],
+          [
+            12.6328901,
+            55.6544431
+          ],
+          [
+            12.632517,
+            55.6551525
+          ],
+          [
+            12.6319355,
+            55.6561542
+          ],
+          [
+            12.6317826,
+            55.6564125
+          ],
+          [
+            12.6316383,
+            55.6566464
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/59576205",
+      "properties": {
+        "@id": "way/59576205",
+        "electrified": "rail",
+        "gauge": "1435",
+        "name": "Metro M2",
+        "railway": "subway",
+        "ref": "M2",
+        "tunnel": "no",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.628463,
+            55.6616445
+          ],
+          [
+            12.6286057,
+            55.6614745
+          ],
+          [
+            12.6287407,
+            55.6613225
+          ],
+          [
+            12.6288811,
+            55.6611597
+          ],
+          [
+            12.6292384,
+            55.6607445
+          ],
+          [
+            12.6294476,
+            55.6603086
+          ],
+          [
+            12.6304401,
+            55.6584469
+          ],
+          [
+            12.6305542,
+            55.6582473
+          ],
+          [
+            12.6312938,
+            55.6569541
+          ],
+          [
+            12.6315094,
+            55.6566183
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/105791001",
+      "properties": {
+        "@id": "way/105791001",
+        "electrified": "rail",
+        "gauge": "1435",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "tunnel": "no",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5161105,
+            55.6829084
+          ],
+          [
+            12.515601,
+            55.6829534
+          ],
+          [
+            12.515271,
+            55.6830014
+          ],
+          [
+            12.5142185,
+            55.6831835
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/105791003",
+      "properties": {
+        "@id": "way/105791003",
+        "electrified": "rail",
+        "gauge": "1435",
+        "name": "Metro M1+M2",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "tunnel": "no",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4914096,
+            55.6872941
+          ],
+          [
+            12.4922191,
+            55.6871435
+          ],
+          [
+            12.4926013,
+            55.687077
+          ],
+          [
+            12.4930169,
+            55.6870062
+          ],
+          [
+            12.4935041,
+            55.6869254
+          ],
+          [
+            12.4937966,
+            55.6868803
+          ],
+          [
+            12.4952039,
+            55.6866634
+          ],
+          [
+            12.4956114,
+            55.6865925
+          ],
+          [
+            12.4957042,
+            55.6865763
+          ],
+          [
+            12.4961859,
+            55.6864862
+          ],
+          [
+            12.49645,
+            55.6864348
+          ],
+          [
+            12.4968665,
+            55.6863436
+          ],
+          [
+            12.4975416,
+            55.6861853
+          ],
+          [
+            12.4977463,
+            55.6861322
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/105791006",
+      "properties": {
+        "@id": "way/105791006",
+        "electrified": "rail",
+        "gauge": "1435",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "tunnel": "no",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4935563,
+            55.6870147
+          ],
+          [
+            12.4937552,
+            55.6869988
+          ],
+          [
+            12.4939784,
+            55.6869779
+          ],
+          [
+            12.4942127,
+            55.6869443
+          ],
+          [
+            12.4974059,
+            55.6863845
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/105791007",
+      "properties": {
+        "@id": "way/105791007",
+        "electrified": "rail",
+        "gauge": "1435",
+        "name": "Metro M1+M2",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "tunnel": "no",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.49987,
+            55.6857513
+          ],
+          [
+            12.5004335,
+            55.6856548
+          ],
+          [
+            12.5008705,
+            55.6855898
+          ],
+          [
+            12.5013076,
+            55.6855343
+          ],
+          [
+            12.5022412,
+            55.685421
+          ],
+          [
+            12.5032622,
+            55.6852952
+          ],
+          [
+            12.5041028,
+            55.6851746
+          ],
+          [
+            12.5049062,
+            55.6850289
+          ],
+          [
+            12.5056426,
+            55.6848727
+          ],
+          [
+            12.5064776,
+            55.6846871
+          ],
+          [
+            12.5083095,
+            55.6843045
+          ],
+          [
+            12.5089157,
+            55.6841849
+          ],
+          [
+            12.5102027,
+            55.6839417
+          ],
+          [
+            12.5120279,
+            55.6836098
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/105791009",
+      "properties": {
+        "@id": "way/105791009",
+        "bridge": "yes",
+        "electrified": "rail",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Metro M1+M2",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4977463,
+            55.6861322
+          ],
+          [
+            12.4982077,
+            55.6860375
+          ],
+          [
+            12.4994273,
+            55.6858312
+          ],
+          [
+            12.49987,
+            55.6857513
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/105791010",
+      "properties": {
+        "@id": "way/105791010",
+        "electrified": "rail",
+        "gauge": "1435",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "tunnel": "no",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4937966,
+            55.6868803
+          ],
+          [
+            12.4948562,
+            55.6867546
+          ],
+          [
+            12.4952467,
+            55.6867063
+          ],
+          [
+            12.4956303,
+            55.6866532
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/105791014",
+      "properties": {
+        "@id": "way/105791014",
+        "electrified": "rail",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Metro M1+M2",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "tunnel": "yes",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.521467,
+            55.6819509
+          ],
+          [
+            12.5230103,
+            55.6816922
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/105791015",
+      "properties": {
+        "@id": "way/105791015",
+        "electrified": "rail",
+        "gauge": "1435",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "tunnel": "no",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4942068,
+            55.6869039
+          ],
+          [
+            12.4948562,
+            55.6867546
+          ],
+          [
+            12.4956114,
+            55.6865925
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/105795581",
+      "properties": {
+        "@id": "way/105795581",
+        "electrified": "rail",
+        "gauge": "1435",
+        "name": "Metro M1+M2",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "tunnel": "no",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5124881,
+            55.6835279
+          ],
+          [
+            12.5127291,
+            55.6834903
+          ],
+          [
+            12.5131634,
+            55.6834124
+          ],
+          [
+            12.5136082,
+            55.6833327
+          ],
+          [
+            12.5161105,
+            55.6829084
+          ],
+          [
+            12.5177997,
+            55.6826215
+          ],
+          [
+            12.521467,
+            55.6819509
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/105795591",
+      "properties": {
+        "@id": "way/105795591",
+        "bridge": "yes",
+        "electrified": "rail",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Metro M1+M2",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "tunnel": "no",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5120279,
+            55.6836098
+          ],
+          [
+            12.5124881,
+            55.6835279
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/125219343",
+      "properties": {
+        "@id": "way/125219343",
+        "electrified": "rail",
+        "gauge": "1435",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "service": "siding",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5785695,
+            55.624247
+          ],
+          [
+            12.5784927,
+            55.6240919
+          ],
+          [
+            12.5783523,
+            55.6238805
+          ],
+          [
+            12.578025,
+            55.6227916
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/125219344",
+      "properties": {
+        "@id": "way/125219344",
+        "electrified": "rail",
+        "gauge": "1435",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "service": "siding",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5785171,
+            55.6244666
+          ],
+          [
+            12.5785695,
+            55.624247
+          ],
+          [
+            12.578135,
+            55.6227704
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148886092",
+      "properties": {
+        "@id": "way/148886092",
+        "electrified": "rail",
+        "gauge": "1435",
+        "name": "Metro M2",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "ref": "M2",
+        "tunnel": "no",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6450644,
+            55.6391065
+          ],
+          [
+            12.644961,
+            55.6392544
+          ],
+          [
+            12.6448664,
+            55.6393995
+          ],
+          [
+            12.6447285,
+            55.6395879
+          ],
+          [
+            12.6445397,
+            55.6397711
+          ],
+          [
+            12.644152,
+            55.6400954
+          ],
+          [
+            12.6437601,
+            55.6403628
+          ],
+          [
+            12.643365,
+            55.6405946
+          ],
+          [
+            12.6425541,
+            55.6410658
+          ],
+          [
+            12.6408379,
+            55.6421083
+          ],
+          [
+            12.6401134,
+            55.6427182
+          ],
+          [
+            12.6396627,
+            55.6432247
+          ],
+          [
+            12.6392555,
+            55.6438025
+          ],
+          [
+            12.6388282,
+            55.644436
+          ],
+          [
+            12.6386043,
+            55.6448561
+          ],
+          [
+            12.6384144,
+            55.6451983
+          ],
+          [
+            12.6382041,
+            55.6456036
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148886093",
+      "properties": {
+        "@id": "way/148886093",
+        "bridge": "yes",
+        "electrified": "rail",
+        "gauge": "1435",
+        "layer": "2",
+        "name": "Metro M2",
+        "railway": "subway",
+        "ref": "M2",
+        "tunnel": "no",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6484501,
+            55.6336785
+          ],
+          [
+            12.6483657,
+            55.6337948
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148886094",
+      "properties": {
+        "@id": "way/148886094",
+        "electrified": "rail",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Metro M2",
+        "railway": "subway",
+        "ref": "M2",
+        "service": "crossover",
+        "tunnel": "yes",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6256762,
+            55.6625405
+          ],
+          [
+            12.6262931,
+            55.6625027
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148886095",
+      "properties": {
+        "@id": "way/148886095",
+        "bridge": "yes",
+        "electrified": "rail",
+        "gauge": "1435",
+        "layer": "2",
+        "name": "Metro M2",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "ref": "M2",
+        "tunnel": "no",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6382041,
+            55.6456036
+          ],
+          [
+            12.6381087,
+            55.6457938
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148886096",
+      "properties": {
+        "@id": "way/148886096",
+        "electrified": "rail",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Metro M2",
+        "railway": "subway",
+        "ref": "M2",
+        "service": "crossover",
+        "tunnel": "yes",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6250368,
+            55.6626217
+          ],
+          [
+            12.6244177,
+            55.6627669
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148886097",
+      "properties": {
+        "@id": "way/148886097",
+        "electrified": "rail",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Metro M2",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "ref": "M2",
+        "tunnel": "yes",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6451534,
+            55.6389603
+          ],
+          [
+            12.6450644,
+            55.6391065
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148886098",
+      "properties": {
+        "@id": "way/148886098",
+        "bridge": "yes",
+        "electrified": "rail",
+        "gauge": "1435",
+        "layer": "2",
+        "name": "Metro M2",
+        "railway": "subway",
+        "ref": "M2",
+        "tunnel": "no",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.648207,
+            55.6337776
+          ],
+          [
+            12.6482999,
+            55.6336541
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148886099",
+      "properties": {
+        "@id": "way/148886099",
+        "electrified": "rail",
+        "gauge": "1435",
+        "name": "Metro M2",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "ref": "M2",
+        "tunnel": "no",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6491596,
+            55.6307105
+          ],
+          [
+            12.6492426,
+            55.630202
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148886100",
+      "properties": {
+        "@id": "way/148886100",
+        "electrified": "rail",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Metro M2",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "ref": "M2",
+        "tunnel": "yes",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6244177,
+            55.6627669
+          ],
+          [
+            12.6224365,
+            55.6627719
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148886102",
+      "properties": {
+        "@id": "way/148886102",
+        "bridge": "yes",
+        "electrified": "rail",
+        "gauge": "1435",
+        "layer": "2",
+        "name": "Metro M2",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "ref": "M2",
+        "tunnel": "no",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6489967,
+            55.6315723
+          ],
+          [
+            12.6490911,
+            55.6311048
+          ],
+          [
+            12.6491243,
+            55.630906
+          ],
+          [
+            12.6491596,
+            55.6307105
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148886104",
+      "properties": {
+        "@id": "way/148886104",
+        "bridge": "yes",
+        "electrified": "rail",
+        "gauge": "1435",
+        "layer": "2",
+        "name": "Metro M2",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "ref": "M2",
+        "tunnel": "no",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6493712,
+            55.6307228
+          ],
+          [
+            12.6493229,
+            55.6309166
+          ],
+          [
+            12.6492729,
+            55.6311121
+          ],
+          [
+            12.6492015,
+            55.6315884
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148886105",
+      "properties": {
+        "@id": "way/148886105",
+        "electrified": "rail",
+        "gauge": "1435",
+        "name": "Metro M2",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "ref": "M2",
+        "tunnel": "no",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6494633,
+            55.630219
+          ],
+          [
+            12.6493712,
+            55.6307228
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148886107",
+      "properties": {
+        "@id": "way/148886107",
+        "electrified": "rail",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Metro M2",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "ref": "M2",
+        "tracks": "2",
+        "tunnel": "yes",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6224365,
+            55.6627719
+          ],
+          [
+            12.6208658,
+            55.6626848
+          ],
+          [
+            12.6186428,
+            55.662433
+          ],
+          [
+            12.6168318,
+            55.6621716
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148886110",
+      "properties": {
+        "@id": "way/148886110",
+        "electrified": "rail",
+        "gauge": "1435",
+        "name": "Metro M2",
+        "railway": "subway",
+        "ref": "M2",
+        "tunnel": "no",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6492015,
+            55.6315884
+          ],
+          [
+            12.6491763,
+            55.6316702
+          ],
+          [
+            12.649063,
+            55.63222
+          ],
+          [
+            12.6488552,
+            55.6328136
+          ],
+          [
+            12.6487041,
+            55.6332223
+          ],
+          [
+            12.6484501,
+            55.6336785
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148886112",
+      "properties": {
+        "@id": "way/148886112",
+        "electrified": "rail",
+        "gauge": "1435",
+        "name": "Metro M2",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "ref": "M2",
+        "tunnel": "no",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6483657,
+            55.6337948
+          ],
+          [
+            12.64786,
+            55.6344963
+          ],
+          [
+            12.6474245,
+            55.6351583
+          ],
+          [
+            12.6471275,
+            55.6355995
+          ],
+          [
+            12.6465797,
+            55.6364245
+          ],
+          [
+            12.6460432,
+            55.6372654
+          ],
+          [
+            12.6457578,
+            55.637794
+          ],
+          [
+            12.6451534,
+            55.6389603
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148886113",
+      "properties": {
+        "@id": "way/148886113",
+        "electrified": "rail",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Metro M2",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "ref": "M2",
+        "tunnel": "yes",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6243964,
+            55.6627088
+          ],
+          [
+            12.6250368,
+            55.6626217
+          ],
+          [
+            12.6256762,
+            55.6625405
+          ],
+          [
+            12.626653,
+            55.6624073
+          ],
+          [
+            12.6269797,
+            55.6623521
+          ],
+          [
+            12.6272642,
+            55.6622938
+          ],
+          [
+            12.6275223,
+            55.6622231
+          ],
+          [
+            12.6277236,
+            55.6621553
+          ],
+          [
+            12.6279122,
+            55.6620739
+          ],
+          [
+            12.6280861,
+            55.661974
+          ],
+          [
+            12.6282336,
+            55.6618742
+          ],
+          [
+            12.628463,
+            55.6616445
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148886114",
+      "properties": {
+        "@id": "way/148886114",
+        "electrified": "rail",
+        "gauge": "1435",
+        "name": "Metro M2",
+        "railway": "subway",
+        "ref": "M2",
+        "tunnel": "no",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6316383,
+            55.6566464
+          ],
+          [
+            12.6314269,
+            55.6569951
+          ],
+          [
+            12.6306084,
+            55.658455
+          ],
+          [
+            12.6295998,
+            55.6603265
+          ],
+          [
+            12.6293332,
+            55.6608012
+          ],
+          [
+            12.6291753,
+            55.6610253
+          ],
+          [
+            12.629014,
+            55.6611967
+          ],
+          [
+            12.628889,
+            55.6613368
+          ],
+          [
+            12.6287386,
+            55.6615115
+          ],
+          [
+            12.6285934,
+            55.6616756
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148886159",
+      "properties": {
+        "@id": "way/148886159",
+        "electrified": "rail",
+        "gauge": "1435",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6373143,
+            55.6469423
+          ],
+          [
+            12.6377424,
+            55.6464374
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148886163",
+      "properties": {
+        "@id": "way/148886163",
+        "electrified": "rail",
+        "gauge": "1435",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "tunnel": "no",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.63699,
+            55.6474809
+          ],
+          [
+            12.636794,
+            55.6479754
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148886165",
+      "properties": {
+        "@id": "way/148886165",
+        "electrified": "rail",
+        "gauge": "1435",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "service": "siding",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.64786,
+            55.6344963
+          ],
+          [
+            12.6477456,
+            55.6348065
+          ],
+          [
+            12.6469531,
+            55.6359861
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148886166",
+      "properties": {
+        "@id": "way/148886166",
+        "electrified": "rail",
+        "gauge": "1435",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "service": "crossover",
+        "tunnel": "no",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6491763,
+            55.6316702
+          ],
+          [
+            12.6489476,
+            55.6322081
+          ],
+          [
+            12.6487664,
+            55.6326005
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148886171",
+      "properties": {
+        "@id": "way/148886171",
+        "electrified": "rail",
+        "gauge": "1435",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "service": "crossover",
+        "tunnel": "no",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6488552,
+            55.6328136
+          ],
+          [
+            12.6489329,
+            55.6324474
+          ],
+          [
+            12.6489476,
+            55.6322081
+          ],
+          [
+            12.6489559,
+            55.6317726
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148886174",
+      "properties": {
+        "@id": "way/148886174",
+        "electrified": "rail",
+        "gauge": "1435",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "service": "siding",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6306084,
+            55.658455
+          ],
+          [
+            12.6306966,
+            55.6581845
+          ],
+          [
+            12.6308338,
+            55.6579079
+          ],
+          [
+            12.6313596,
+            55.6569808
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148886175",
+      "properties": {
+        "@id": "way/148886175",
+        "electrified": "rail",
+        "gauge": "1435",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "service": "siding",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6354786,
+            55.6504557
+          ],
+          [
+            12.6355077,
+            55.65041
+          ],
+          [
+            12.6359315,
+            55.649724
+          ],
+          [
+            12.635972,
+            55.6496149
+          ],
+          [
+            12.6359792,
+            55.6494688
+          ],
+          [
+            12.6360099,
+            55.6493341
+          ],
+          [
+            12.6361213,
+            55.6490732
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148894290",
+      "properties": {
+        "@id": "way/148894290",
+        "electrified": "rail",
+        "gauge": "1435",
+        "name": "Metro M1",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "ref": "M1",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5891537,
+            55.6543815
+          ],
+          [
+            12.5890817,
+            55.6540773
+          ],
+          [
+            12.5887621,
+            55.6532253
+          ],
+          [
+            12.58823,
+            55.6518718
+          ],
+          [
+            12.5877075,
+            55.6505413
+          ],
+          [
+            12.58646,
+            55.6473763
+          ],
+          [
+            12.5857022,
+            55.6454403
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148894291",
+      "properties": {
+        "@id": "way/148894291",
+        "electrified": "rail",
+        "gauge": "1435",
+        "name": "Metro M1",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "ref": "M1",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5844023,
+            55.6414915
+          ],
+          [
+            12.585212,
+            55.6436761
+          ],
+          [
+            12.5853515,
+            55.6439597
+          ],
+          [
+            12.5857166,
+            55.6449998
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148894292",
+      "properties": {
+        "@id": "way/148894292",
+        "bridge": "yes",
+        "bridge:structure": "beam",
+        "electrified": "rail",
+        "gauge": "1435",
+        "layer": "2",
+        "name": "Metro M1",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "ref": "M1",
+        "tunnel": "no",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5892934,
+            55.6543758
+          ],
+          [
+            12.5893276,
+            55.6546866
+          ],
+          [
+            12.5892477,
+            55.6551085
+          ],
+          [
+            12.5890786,
+            55.6557776
+          ],
+          [
+            12.5888422,
+            55.6567241
+          ],
+          [
+            12.588501,
+            55.6571616
+          ],
+          [
+            12.5881834,
+            55.6574763
+          ],
+          [
+            12.5877972,
+            55.6577378
+          ],
+          [
+            12.5871792,
+            55.6580719
+          ],
+          [
+            12.5859089,
+            55.658682
+          ],
+          [
+            12.5851536,
+            55.6592097
+          ],
+          [
+            12.5848135,
+            55.6596007
+          ],
+          [
+            12.5845835,
+            55.6599684
+          ],
+          [
+            12.5844892,
+            55.6603441
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148894293",
+      "properties": {
+        "@id": "way/148894293",
+        "bridge": "yes",
+        "bridge:structure": "beam",
+        "electrified": "rail",
+        "gauge": "1435",
+        "layer": "2",
+        "name": "Metro M1",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "ref": "M1",
+        "tunnel": "no",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5843296,
+            55.6603319
+          ],
+          [
+            12.5844408,
+            55.6599407
+          ],
+          [
+            12.5846319,
+            55.6595782
+          ],
+          [
+            12.5850198,
+            55.6591625
+          ],
+          [
+            12.5857843,
+            55.658628
+          ],
+          [
+            12.5870614,
+            55.6580173
+          ],
+          [
+            12.5877118,
+            55.657676
+          ],
+          [
+            12.5880843,
+            55.6574269
+          ],
+          [
+            12.5883969,
+            55.6571099
+          ],
+          [
+            12.5886427,
+            55.6566968
+          ],
+          [
+            12.5889149,
+            55.6557626
+          ],
+          [
+            12.5890958,
+            55.6550998
+          ],
+          [
+            12.5891573,
+            55.6547114
+          ],
+          [
+            12.5891537,
+            55.6543815
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148894296",
+      "properties": {
+        "@id": "way/148894296",
+        "bridge": "yes",
+        "electrified": "rail",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Metro M1",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "ref": "M1",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5774556,
+            55.6238164
+          ],
+          [
+            12.577605,
+            55.6242097
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148894297",
+      "properties": {
+        "@id": "way/148894297",
+        "electrified": "rail",
+        "gauge": "1435",
+        "name": "Metro M1",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "ref": "M1",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5781064,
+            55.6258842
+          ],
+          [
+            12.5774179,
+            55.6242286
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148894298",
+      "properties": {
+        "@id": "way/148894298",
+        "bridge": "yes",
+        "electrified": "rail",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Metro M1",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "ref": "M1",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5774179,
+            55.6242286
+          ],
+          [
+            12.5772708,
+            55.6238332
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148894299",
+      "properties": {
+        "@id": "way/148894299",
+        "electrified": "rail",
+        "gauge": "1435",
+        "name": "Metro M1",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "ref": "M1",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.577605,
+            55.6242097
+          ],
+          [
+            12.5782733,
+            55.6258508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148894300",
+      "properties": {
+        "@id": "way/148894300",
+        "electrified": "rail",
+        "gauge": "1435",
+        "name": "Metro M1",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "ref": "M1",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5844892,
+            55.6603441
+          ],
+          [
+            12.5844154,
+            55.6607349
+          ],
+          [
+            12.5844966,
+            55.6611555
+          ],
+          [
+            12.5847449,
+            55.6618711
+          ],
+          [
+            12.5850205,
+            55.662693
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148894301",
+      "properties": {
+        "@id": "way/148894301",
+        "electrified": "rail",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "Metro M1",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "ref": "M1",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5848942,
+            55.662712
+          ],
+          [
+            12.5846019,
+            55.6618512
+          ],
+          [
+            12.5843537,
+            55.6611775
+          ],
+          [
+            12.5843038,
+            55.6607547
+          ],
+          [
+            12.5843296,
+            55.6603319
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148894302",
+      "properties": {
+        "@id": "way/148894302",
+        "electrified": "rail",
+        "gauge": "1435",
+        "name": "Metro M1",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "ref": "M1",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5772708,
+            55.6238332
+          ],
+          [
+            12.57702,
+            55.6232109
+          ],
+          [
+            12.5765025,
+            55.621908
+          ],
+          [
+            12.5758173,
+            55.6201478
+          ],
+          [
+            12.575586,
+            55.6196227
+          ],
+          [
+            12.575491,
+            55.6193815
+          ],
+          [
+            12.5754109,
+            55.6191727
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148894303",
+      "properties": {
+        "@id": "way/148894303",
+        "bridge": "trestle",
+        "electrified": "rail",
+        "gauge": "1435",
+        "layer": "2",
+        "name": "Metro M1",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "ref": "M1",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5842075,
+            55.6415159
+          ],
+          [
+            12.5828496,
+            55.6380796
+          ],
+          [
+            12.5808678,
+            55.6330498
+          ],
+          [
+            12.5793539,
+            55.6291526
+          ],
+          [
+            12.5787325,
+            55.6276097
+          ],
+          [
+            12.5784962,
+            55.6270145
+          ],
+          [
+            12.578264,
+            55.6264286
+          ],
+          [
+            12.5781064,
+            55.6258842
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148894304",
+      "properties": {
+        "@id": "way/148894304",
+        "bridge": "trestle",
+        "electrified": "rail",
+        "gauge": "1435",
+        "layer": "2",
+        "name": "Metro M1",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "ref": "M1",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5782733,
+            55.6258508
+          ],
+          [
+            12.5786124,
+            55.6267484
+          ],
+          [
+            12.5786993,
+            55.6269832
+          ],
+          [
+            12.5788097,
+            55.6272871
+          ],
+          [
+            12.5789309,
+            55.6275897
+          ],
+          [
+            12.5795171,
+            55.629141
+          ],
+          [
+            12.5810615,
+            55.6330212
+          ],
+          [
+            12.5830023,
+            55.6380662
+          ],
+          [
+            12.5844023,
+            55.6414915
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148894305",
+      "properties": {
+        "@id": "way/148894305",
+        "electrified": "rail",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Metro M1",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "ref": "M1",
+        "tracks": "2",
+        "tunnel": "yes",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5930395,
+            55.6684262
+          ],
+          [
+            12.5929307,
+            55.6677879
+          ],
+          [
+            12.5926468,
+            55.6674066
+          ],
+          [
+            12.5914771,
+            55.6666615
+          ],
+          [
+            12.589265,
+            55.6659957
+          ],
+          [
+            12.5878103,
+            55.6655483
+          ],
+          [
+            12.5860297,
+            55.6645529
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148894315",
+      "properties": {
+        "@id": "way/148894315",
+        "electrified": "rail",
+        "gauge": "1435",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "service": "siding",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5754109,
+            55.6191727
+          ],
+          [
+            12.5753402,
+            55.6189828
+          ],
+          [
+            12.575288,
+            55.6188378
+          ],
+          [
+            12.5752502,
+            55.6186927
+          ],
+          [
+            12.5752484,
+            55.6186057
+          ],
+          [
+            12.5752737,
+            55.6185191
+          ],
+          [
+            12.5753261,
+            55.6184304
+          ],
+          [
+            12.5754182,
+            55.6183489
+          ],
+          [
+            12.5755178,
+            55.6182826
+          ],
+          [
+            12.5756589,
+            55.6182284
+          ],
+          [
+            12.575804,
+            55.6181923
+          ],
+          [
+            12.5759758,
+            55.6181713
+          ],
+          [
+            12.5761555,
+            55.6181657
+          ],
+          [
+            12.5763337,
+            55.6181756
+          ],
+          [
+            12.5771096,
+            55.6182457
+          ],
+          [
+            12.5775317,
+            55.6182826
+          ],
+          [
+            12.5777308,
+            55.6183144
+          ],
+          [
+            12.5779144,
+            55.6183605
+          ],
+          [
+            12.5780763,
+            55.6184381
+          ],
+          [
+            12.5782202,
+            55.6185313
+          ],
+          [
+            12.5783609,
+            55.6186745
+          ],
+          [
+            12.5784562,
+            55.6188264
+          ],
+          [
+            12.5795579,
+            55.6225292
+          ],
+          [
+            12.5804668,
+            55.6255685
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148894316",
+      "properties": {
+        "@id": "way/148894316",
+        "electrified": "rail",
+        "gauge": "1435",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "service": "crossover",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.576514,
+            55.621396
+          ],
+          [
+            12.5758173,
+            55.6201478
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148894317",
+      "properties": {
+        "@id": "way/148894317",
+        "gauge": "1435",
+        "railway": "subway",
+        "service": "siding"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5887621,
+            55.6532253
+          ],
+          [
+            12.5887024,
+            55.6528656
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148894320",
+      "properties": {
+        "@id": "way/148894320",
+        "electrified": "rail",
+        "gauge": "1435",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "service": "crossover",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5847537,
+            55.6429475
+          ],
+          [
+            12.585212,
+            55.6436761
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148894321",
+      "properties": {
+        "@id": "way/148894321",
+        "electrified": "rail",
+        "gauge": "1435",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "service": "crossover",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5853515,
+            55.6439597
+          ],
+          [
+            12.5854577,
+            55.6448142
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148894322",
+      "properties": {
+        "@id": "way/148894322",
+        "electrified": "rail",
+        "gauge": "1435",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "service": "crossover",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5766896,
+            55.6218888
+          ],
+          [
+            12.57702,
+            55.6232109
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148894323",
+      "properties": {
+        "@id": "way/148894323",
+        "electrified": "rail",
+        "gauge": "1435",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "service": "crossover",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5846019,
+            55.6618512
+          ],
+          [
+            12.5847787,
+            55.6622067
+          ],
+          [
+            12.5850205,
+            55.662693
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148894324",
+      "properties": {
+        "@id": "way/148894324",
+        "electrified": "rail",
+        "gauge": "1435",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "service": "crossover",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5847449,
+            55.6618711
+          ],
+          [
+            12.5847787,
+            55.6622067
+          ],
+          [
+            12.5848942,
+            55.662712
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148894325",
+      "properties": {
+        "@id": "way/148894325",
+        "electrified": "rail",
+        "gauge": "1435",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "service": "siding",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5889817,
+            55.6534157
+          ],
+          [
+            12.5888341,
+            55.6532015
+          ],
+          [
+            12.5887024,
+            55.6528656
+          ],
+          [
+            12.5883143,
+            55.651858
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/149059247",
+      "properties": {
+        "@id": "way/149059247",
+        "electrified": "rail",
+        "gauge": "1435",
+        "name": "Metro M1",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "ref": "M1",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5857022,
+            55.6454403
+          ],
+          [
+            12.585629,
+            55.6452602
+          ],
+          [
+            12.5855366,
+            55.6450205
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/149059248",
+      "properties": {
+        "@id": "way/149059248",
+        "electrified": "rail",
+        "gauge": "1435",
+        "name": "Metro M1",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "ref": "M1",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5857166,
+            55.6449998
+          ],
+          [
+            12.5858054,
+            55.645243
+          ],
+          [
+            12.5858765,
+            55.6454163
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/149059251",
+      "properties": {
+        "@id": "way/149059251",
+        "electrified": "rail",
+        "gauge": "1435",
+        "name": "Metro M1",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "ref": "M1",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5855366,
+            55.6450205
+          ],
+          [
+            12.5854577,
+            55.6448142
+          ],
+          [
+            12.5847537,
+            55.6429475
+          ],
+          [
+            12.5842075,
+            55.6415159
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/149059253",
+      "properties": {
+        "@id": "way/149059253",
+        "electrified": "rail",
+        "gauge": "1435",
+        "name": "Metro M1",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "ref": "M1",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5858765,
+            55.6454163
+          ],
+          [
+            12.5862234,
+            55.6463715
+          ],
+          [
+            12.5865532,
+            55.6473614
+          ],
+          [
+            12.5877865,
+            55.6505337
+          ],
+          [
+            12.5883707,
+            55.6518415
+          ],
+          [
+            12.5889817,
+            55.6534157
+          ],
+          [
+            12.5892224,
+            55.6540565
+          ],
+          [
+            12.5892934,
+            55.6543758
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/160402770",
+      "properties": {
+        "@id": "way/160402770",
+        "access": "no",
+        "construction": "yes",
+        "electrified": "rail",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Cityringen",
+        "name:en": "City Circle Line",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "service": "yard",
+        "tunnel": "yes",
+        "voltage": "750",
+        "wikipedia": "da:Cityringen"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.556922,
+            55.6632863
+          ],
+          [
+            12.556445,
+            55.6641584
+          ],
+          [
+            12.5558013,
+            55.6660101
+          ],
+          [
+            12.5556725,
+            55.6670267
+          ],
+          [
+            12.5557584,
+            55.6673777
+          ],
+          [
+            12.5560158,
+            55.6679102
+          ],
+          [
+            12.5564347,
+            55.6682386
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/160402771",
+      "properties": {
+        "@id": "way/160402771",
+        "access": "no",
+        "construction": "yes",
+        "electrified": "rail",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Cityringen",
+        "name:en": "City Circle Line",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "service": "yard",
+        "tunnel": "yes",
+        "voltage": "750",
+        "wikipedia": "da:Cityringen"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.556858,
+            55.6686306
+          ],
+          [
+            12.5559367,
+            55.6682301
+          ],
+          [
+            12.5557356,
+            55.6680864
+          ],
+          [
+            12.5552849,
+            55.6676795
+          ],
+          [
+            12.5552045,
+            55.6674798
+          ],
+          [
+            12.5552474,
+            55.667026
+          ],
+          [
+            12.5555506,
+            55.6659975
+          ],
+          [
+            12.5563095,
+            55.6640427
+          ],
+          [
+            12.5567626,
+            55.6632449
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/193771494",
+      "properties": {
+        "@id": "way/193771494",
+        "electrified": "rail",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Metro M1",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "ref": "M1",
+        "tunnel": "yes",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5860297,
+            55.6645529
+          ],
+          [
+            12.5852802,
+            55.6639026
+          ],
+          [
+            12.5851212,
+            55.66342
+          ],
+          [
+            12.5848942,
+            55.662712
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/193771495",
+      "properties": {
+        "@id": "way/193771495",
+        "electrified": "rail",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Metro M1+M2",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "tunnel": "yes",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5230103,
+            55.6816922
+          ],
+          [
+            12.5215104,
+            55.682
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/193771497",
+      "properties": {
+        "@id": "way/193771497",
+        "electrified": "rail",
+        "gauge": "1435",
+        "layer": "-1",
+        "name": "Metro M2",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "ref": "M2",
+        "tunnel": "yes",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6224365,
+            55.6627719
+          ],
+          [
+            12.6243964,
+            55.6627088
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/223378745",
+      "properties": {
+        "@id": "way/223378745",
+        "electrified": "rail",
+        "gauge": "1435",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "service": "siding",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6308338,
+            55.6579079
+          ],
+          [
+            12.6306602,
+            55.6581458
+          ],
+          [
+            12.6305542,
+            55.6582473
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/289684207",
+      "properties": {
+        "@id": "way/289684207",
+        "electrified": "rail",
+        "gauge": "1435",
+        "layer": "-2",
+        "name": "Metro M1+M2",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "tunnel": "yes",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.570609,
+            55.6840361
+          ],
+          [
+            12.5706637,
+            55.6839938
+          ],
+          [
+            12.5711875,
+            55.6837794
+          ],
+          [
+            12.5716987,
+            55.6835994
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/289684208",
+      "properties": {
+        "@id": "way/289684208",
+        "electrified": "rail",
+        "gauge": "1435",
+        "layer": "-2",
+        "name": "Metro M1+M2",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "tunnel": "yes",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5716987,
+            55.6835994
+          ],
+          [
+            12.5729934,
+            55.6831635
+          ],
+          [
+            12.574646,
+            55.6826892
+          ],
+          [
+            12.5761137,
+            55.6824133
+          ],
+          [
+            12.5781651,
+            55.682302
+          ],
+          [
+            12.5799933,
+            55.6822343
+          ],
+          [
+            12.5811949,
+            55.6820988
+          ],
+          [
+            12.5821133,
+            55.6818762
+          ],
+          [
+            12.5832634,
+            55.6813294
+          ],
+          [
+            12.5839844,
+            55.6808358
+          ],
+          [
+            12.5846536,
+            55.6801986
+          ],
+          [
+            12.5849192,
+            55.6798661
+          ],
+          [
+            12.5851098,
+            55.6795124
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/289684209",
+      "properties": {
+        "@id": "way/289684209",
+        "electrified": "rail",
+        "gauge": "1435",
+        "layer": "-2",
+        "name": "Metro M1+M2",
+        "operator": "Metroselskabet I/S",
+        "railway": "subway",
+        "tunnel": "yes",
+        "voltage": "750"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5716987,
+            55.6835994
+          ],
+          [
+            12.5715283,
+            55.6837116
+          ],
+          [
+            12.5712319,
+            55.6838245
+          ],
+          [
+            12.5707044,
+            55.6840254
+          ],
+          [
+            12.570609,
+            55.6840361
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/321281859",
+      "properties": {
+        "@id": "way/321281859",
+        "railway": "subway",
+        "service": "yard"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5426065,
+            55.6555531
+          ],
+          [
+            12.54293,
+            55.6556124
+          ],
+          [
+            12.5431485,
+            55.6556954
+          ],
+          [
+            12.5454344,
+            55.6565464
+          ],
+          [
+            12.5456277,
+            55.6566294
+          ],
+          [
+            12.5458672,
+            55.6567693
+          ],
+          [
+            12.5460437,
+            55.6568688
+          ],
+          [
+            12.5462916,
+            55.6570217
+          ],
+          [
+            12.5466194,
+            55.6572007
+          ],
+          [
+            12.5480632,
+            55.6580446
+          ],
+          [
+            12.5482481,
+            55.6581584
+          ],
+          [
+            12.5484708,
+            55.6582864
+          ],
+          [
+            12.5487607,
+            55.6584547
+          ],
+          [
+            12.549044,
+            55.6585566
+          ],
+          [
+            12.5495079,
+            55.658695
+          ],
+          [
+            12.5498675,
+            55.6588126
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/321281860",
+      "properties": {
+        "@id": "way/321281860",
+        "railway": "subway",
+        "service": "yard"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5429723,
+            55.6564848
+          ],
+          [
+            12.541659,
+            55.6563038
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/321281861",
+      "properties": {
+        "@id": "way/321281861",
+        "railway": "subway",
+        "service": "yard"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5490027,
+            55.6586105
+          ],
+          [
+            12.5495079,
+            55.658695
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/321281862",
+      "properties": {
+        "@id": "way/321281862",
+        "railway": "subway",
+        "service": "yard"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5450182,
+            55.6570097
+          ],
+          [
+            12.5484708,
+            55.6582864
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/321281863",
+      "properties": {
+        "@id": "way/321281863",
+        "railway": "subway",
+        "service": "yard"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5447775,
+            55.6568706
+          ],
+          [
+            12.5482481,
+            55.6581584
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/321281864",
+      "properties": {
+        "@id": "way/321281864",
+        "railway": "subway",
+        "service": "yard"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5453005,
+            55.657174
+          ],
+          [
+            12.5487607,
+            55.6584547
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/321281865",
+      "properties": {
+        "@id": "way/321281865",
+        "railway": "subway",
+        "service": "yard"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5460437,
+            55.6568688
+          ],
+          [
+            12.5467052,
+            55.6571119
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/321281866",
+      "properties": {
+        "@id": "way/321281866",
+        "railway": "subway",
+        "service": "yard"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5428052,
+            55.6557257
+          ],
+          [
+            12.5462916,
+            55.6570217
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/321281867",
+      "properties": {
+        "@id": "way/321281867",
+        "railway": "subway",
+        "service": "yard"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5445725,
+            55.6567499
+          ],
+          [
+            12.5480632,
+            55.6580446
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/321281868",
+      "properties": {
+        "@id": "way/321281868",
+        "railway": "subway",
+        "service": "yard"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5423914,
+            55.6554816
+          ],
+          [
+            12.5426065,
+            55.6555531
+          ],
+          [
+            12.5458672,
+            55.6567693
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/321281869",
+      "properties": {
+        "@id": "way/321281869",
+        "railway": "subway",
+        "service": "yard"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5473397,
+            55.6574663
+          ],
+          [
+            12.5476588,
+            55.6575353
+          ],
+          [
+            12.5484887,
+            55.6578399
+          ],
+          [
+            12.5502211,
+            55.6584728
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/321281870",
+      "properties": {
+        "@id": "way/321281870",
+        "railway": "subway",
+        "service": "yard"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5469616,
+            55.6573269
+          ],
+          [
+            12.5472533,
+            55.6574985
+          ],
+          [
+            12.5479004,
+            55.6578837
+          ],
+          [
+            12.5482534,
+            55.6580319
+          ],
+          [
+            12.5499522,
+            55.6586838
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/321281871",
+      "properties": {
+        "@id": "way/321281871",
+        "railway": "subway",
+        "service": "yard"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5466194,
+            55.6572007
+          ],
+          [
+            12.5469616,
+            55.6573269
+          ],
+          [
+            12.5473397,
+            55.6574663
+          ],
+          [
+            12.5484134,
+            55.6579001
+          ],
+          [
+            12.5501296,
+            55.658532
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/321281873",
+      "properties": {
+        "@id": "way/321281873",
+        "railway": "subway",
+        "service": "yard"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.545556,
+            55.6573248
+          ],
+          [
+            12.543916,
+            55.6566894
+          ],
+          [
+            12.543494,
+            55.6565469
+          ],
+          [
+            12.5431018,
+            55.6564547
+          ],
+          [
+            12.5428077,
+            55.6564044
+          ],
+          [
+            12.5423127,
+            55.6563373
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/321281874",
+      "properties": {
+        "@id": "way/321281874",
+        "railway": "subway",
+        "service": "yard"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5472533,
+            55.6574985
+          ],
+          [
+            12.5475222,
+            55.6575957
+          ],
+          [
+            12.5477344,
+            55.6577142
+          ],
+          [
+            12.5480076,
+            55.6578588
+          ],
+          [
+            12.5483248,
+            55.657975
+          ],
+          [
+            12.5500384,
+            55.6586067
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/335384248",
+      "properties": {
+        "@id": "way/335384248",
+        "railway": "subway",
+        "service": "yard"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5499969,
+            55.6589807
+          ],
+          [
+            12.5489549,
+            55.6586488
+          ],
+          [
+            12.548658,
+            55.6585501
+          ],
+          [
+            12.5481096,
+            55.6583655
+          ],
+          [
+            12.5472301,
+            55.6580487
+          ],
+          [
+            12.5464487,
+            55.6577453
+          ],
+          [
+            12.5455097,
+            55.6573766
+          ],
+          [
+            12.5445679,
+            55.6570028
+          ],
+          [
+            12.5439053,
+            55.6567329
+          ],
+          [
+            12.5434655,
+            55.6565938
+          ],
+          [
+            12.5429723,
+            55.6564848
+          ],
+          [
+            12.5423127,
+            55.6563373
+          ],
+          [
+            12.5416144,
+            55.6562451
+          ],
+          [
+            12.5413856,
+            55.6561864
+          ],
+          [
+            12.5412282,
+            55.6561043
+          ],
+          [
+            12.5411123,
+            55.655997
+          ],
+          [
+            12.5410588,
+            55.6558964
+          ],
+          [
+            12.5410469,
+            55.6558026
+          ],
+          [
+            12.5410588,
+            55.6557263
+          ],
+          [
+            12.5411034,
+            55.6556416
+          ],
+          [
+            12.5411851,
+            55.6555494
+          ],
+          [
+            12.5412668,
+            55.6554975
+          ],
+          [
+            12.5413619,
+            55.6554489
+          ],
+          [
+            12.5414644,
+            55.6554128
+          ],
+          [
+            12.5416055,
+            55.6553793
+          ],
+          [
+            12.5417318,
+            55.6553634
+          ],
+          [
+            12.5418699,
+            55.6553583
+          ],
+          [
+            12.542023,
+            55.6553709
+          ],
+          [
+            12.5421552,
+            55.6553952
+          ],
+          [
+            12.542283,
+            55.6554329
+          ],
+          [
+            12.5423914,
+            55.6554816
+          ],
+          [
+            12.5428052,
+            55.6557257
+          ],
+          [
+            12.5445725,
+            55.6567499
+          ],
+          [
+            12.5447775,
+            55.6568706
+          ],
+          [
+            12.5450182,
+            55.6570097
+          ],
+          [
+            12.5453005,
+            55.657174
+          ],
+          [
+            12.545556,
+            55.6573248
+          ],
+          [
+            12.5465246,
+            55.6576936
+          ],
+          [
+            12.5473328,
+            55.6579886
+          ],
+          [
+            12.5481677,
+            55.6583104
+          ],
+          [
+            12.5487055,
+            55.6585133
+          ],
+          [
+            12.5490027,
+            55.6586105
+          ],
+          [
+            12.5500325,
+            55.6589356
+          ]
+        ]
+      }
+    }
+  ]
+}
